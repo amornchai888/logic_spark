@@ -4,8 +4,8 @@
 - composer insall
 
 # Config 
-DB_CONNECTION=sqlite
-DB_DATABASE={PROJECT_PATH}/database/database.sqlite
+- DB_CONNECTION=sqlite
+- DB_DATABASE={PROJECT_PATH}/database/database.sqlite
 
 
 ## Category API
